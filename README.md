@@ -10,5 +10,10 @@ This project is a frontend clone of the popular fashion e-commerce platform **My
 - Organized structure for future backend or API integration
 - Built with beginner-friendly HTML/CSS practices
 
+## 💻 Technologies Used:
+- HTML5
+- CSS3 (Flexbox, Box-shadow, Hover effects)
+- Basic JavaScript (optional search interaction / future upgrade)
+
 ### 📁 Folder Structure
 
